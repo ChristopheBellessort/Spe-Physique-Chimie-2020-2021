@@ -1,0 +1,10 @@
+name: Pour Physique-chimie
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - scipy
+  - ipywidgets
+  - ipympl
